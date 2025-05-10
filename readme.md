@@ -1,3 +1,1 @@
-***git 
-
-**cokmando
+git comando
